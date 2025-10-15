@@ -14,5 +14,5 @@ CCRT_wolbachia_treated.csv: Measures of chill coma recovery time (CCRT) in Wolba
 
 Temperature_preference.csv: Measures of temperature preference/thermotaxis (genotype = host genotype, wbstrain = wolbachia strain)
 
-Fluorescence - dados.csv: Measures of corrected fluorescence of Wolbachia RNA in D. melanogaster ovaries (CFCT) 
+Fluorescence - dados.csv: Measures of corrected fluorescence of Wolbachia RNA in D. melanogaster ovaries (CFTC) 
 
